@@ -1,0 +1,15 @@
+- document.getElementById
+
+1. La variable container contiene el valor de c1.
+2. Se visualiza en el primer cuadro la impresión de Hola mundo!
+3. Se muestra dentro del contenedor una caja de texto.
+4. La diferecia es que en el innerText se accede al texto del contenedor c1 mientras que en innerHTML se accede al contenedor completo del c1.
+
+- document.getElementByClassName
+
+1. La variable containers almacena un arreglo c2.
+2. Camabia el color de fondo de todos los elementos del arreglo c2.
+3. Se muestra en acada uno de los elementos del arreglo una caja de texto.
+4. La diferccia es la forma en como se accede innerText accede al texto mientras que el innerHTML accede al texto pero crea una caja de texto.
+
+- Eventos
