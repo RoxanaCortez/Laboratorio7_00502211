@@ -13,3 +13,5 @@
 4. La diferccia es la forma en como se accede innerText accede al texto mientras que el innerHTML accede al texto pero crea una caja de texto.
 
 - Eventos
+1. Se mostrará y obtendrá el id del contenedor y se le asigna el valor de la caja de texto (mostrará el texto que digitado).
+2. Value me obtiene el texto mientra que el innerText me modifica el texto
